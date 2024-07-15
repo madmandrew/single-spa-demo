@@ -70,3 +70,5 @@ dist
 *.sln
 *.sw?
 .DS_Store
+/react-parcel-demo/node_modules/
+/root-app/node_modules/
